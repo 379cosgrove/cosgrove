@@ -12,13 +12,41 @@ Welcome to the home page. Your home page.
    :maxdepth: 2
    :hidden:
 
-   images
-   documents
    faq
 
-.. image:: ./images/main.jpg
-   :scale: 50 %
-   :alt: alternate text
-   :align: right
+.. thumbnail:: ./images/Web-1.jpg
+   :width: 25%
+   :group: group1
+   :title: This is a description of the picture. I hope it helps you.
+
+.. thumbnail:: ./images/Web-2.jpg
+   :width: 25%
+   :group: group1
+   :title: This is another title. The house faces south and gets warm sunlight into the family room througout the day. You will like this because in the winter ever bit of sunshine is important!
+
+.. thumbnail:: ./images/Web-3.jpg
+   :width: 25 %
+   :group: group1
+
+.. thumbnail:: ./images/Web-5.jpg
+   :width: 25 %
+   :group: group1
+
+.. thumbnail:: ./images/Web-6.jpg
+   :width: 20 %
+   :group: group1
+
+.. thumbnail:: ./images/Web-7.jpg
+   :width: 20 %
+   :group: group1
+
+.. thumbnail:: ./images/Web-8.jpg
+   :width: 20 %
+   :group: group1
+
+.. thumbnail:: ./images/Web-9.jpg
+   :width: 20 %
+   :group: group1
+
 
 
