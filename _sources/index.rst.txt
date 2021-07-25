@@ -50,6 +50,8 @@ Don't miss out on this gem! Please bring your best and final offers by 8/3.
    :class: framed
    :group: group1
 
+|
+
 .. thumbnail:: ./images/Web-4.jpg
    :width: 49 %
    :class: framed
@@ -59,6 +61,8 @@ Don't miss out on this gem! Please bring your best and final offers by 8/3.
    :width: 49 %
    :class: framed
    :group: group1
+
+|
 
 .. thumbnail:: ./images/Web-6.jpg
    :width: 49 %
@@ -70,6 +74,8 @@ Don't miss out on this gem! Please bring your best and final offers by 8/3.
    :class: framed
    :group: group1
 
+|
+
 .. thumbnail:: ./images/Web-9.jpg
    :width: 49 %
    :class: framed
@@ -80,7 +86,11 @@ Don't miss out on this gem! Please bring your best and final offers by 8/3.
    :class: framed
    :group: group1
 
+|
+
 .. thumbnail:: ./images/Web-15.jpg
    :width: 49 %
    :class: framed
    :group: group1
+
+|
