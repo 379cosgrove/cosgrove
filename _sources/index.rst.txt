@@ -12,7 +12,7 @@ Zillow on 7/30.
 More pictures to come on 7/30! Will update with list price no later than 7/29.
 Offer review on 8/3.
 
-I'm a Real Estate agent representing a buyer, what's in it for me?
+**I'm a Real Estate agent representing a buyer, what's in it for me?**
 
 Let's negotiate a commission during the offer process!
 
@@ -26,8 +26,6 @@ sound system. High efficiency heating and central air conditioning. 2.5 car
 garage is ready for your cars & toys.
 
 Don't miss out on this gem! Please bring your best and final offers by 8/3.
-
-More information at 379cosgrove.com
 
 .. toctree::
    :maxdepth: 2
