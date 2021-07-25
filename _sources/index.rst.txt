@@ -1,0 +1,73 @@
+.. 379 Cosgrove documentation master file, created by
+   sphinx-quickstart on Mon Jun  7 15:13:03 2021.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Your 'Home' Page
+================
+
+Pre-Zillow listing for all my Bainbridge house hunters. House will be listed on
+Zillow on 7/30.
+
+More pictures to come on 7/30! Will update with list price no later than 7/29.
+Offer review on 8/3.
+
+I'm a Real Estate agent representing a buyer, what's in it for me?
+
+Let's negotiate a commission during the offer process!
+
+This beautiful craftsman was built and sited in the spirit of Old Bainbridge.
+Walk to town/ferry/restaurants/groceries/school. Large green space across the
+street with playground and room for pets. Soaring great room with amazing
+Southern exposure brings light into the house all year long. 2900 sq ft, 4
+bedrooms, 3 bathrooms, den/office. Spacious deck offers a great view of the
+expertly landscaped fully fenced yard. Upper and lower levels are wired for
+sound system. High efficiency heating and central air conditioning. 2.5 car
+garage is ready for your cars & toys.
+
+Don't miss out on this gem! Please bring your best and final offers by 8/3.
+
+More information at 379cosgrove.com
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+
+   faq
+
+.. thumbnail:: ./images/Web-2.jpg
+   :width: 49%
+   :class: framed
+   :group: group1
+
+.. thumbnail:: ./images/Web-3.jpg
+   :width: 49 %
+   :class: framed
+   :group: group1
+
+.. thumbnail:: ./images/Web-5.jpg
+   :width: 49 %
+   :class: framed
+   :group: group1
+
+.. thumbnail:: ./images/Web-6.jpg
+   :width: 49 %
+   :class: framed
+   :group: group1
+
+.. thumbnail:: ./images/Web-7.jpg
+   :width: 49 %
+   :class: framed
+   :group: group1
+
+.. thumbnail:: ./images/Web-9.jpg
+   :width: 49 %
+   :group: group1
+
+.. thumbnail:: ./images/Web-11.jpg
+   :width: 49 %
+   :group: group1
+
+.. thumbnail:: ./images/Web-15.jpg
+   :width: 49 %
+   :group: group1
