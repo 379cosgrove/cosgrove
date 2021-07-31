@@ -8,29 +8,8 @@ Your 'Home' Page
 
 Pre-Zillow listing for all my Bainbridge house hunters. `Zillow Link <https://www.zillow.com/homedetails/379-Cosgrove-St-NW-Bainbridge-Island-WA-98110/54048742_zpid/?view=public>`_  | `Google Maps <https://www.google.com/maps/place/379+Cosgrove+St+NW,+Bainbridge+Island,+WA+98110/@47.6270968,-122.5321672,17z/data=!3m1!4b1!4m5!3m4!1s0x54903eb21988070b:0xa58271758eea120f!8m2!3d47.6270968!4d-122.5299732>`_
 
-On 7/30, I will update with price and more pictures!
-
-Offer review on 8/3.
-
-Open House
-^^^^^^^^^^
-
-Saturday 7/31, 12-4
-
-Sunday 8/1, 12-4
-
-Will also show by appointment. Ready to work with a buyer's agent, let's talk!
-
-This beautiful craftsman was built and sited in the best spirit of Bainbridge.
-Walk to town/ferry/restaurants/groceries/school. Large green space across the
-street with playground and room for pets. Soaring great room with amazing
-Southern exposure brings light into the house all year long. 2900 sq ft, 4
-bedrooms, 3 bathrooms, den/office. Spacious deck offers a great view of the
-expertly landscaped fully fenced yard. Upper and lower levels are wired for
-sound system. High efficiency heating and central air conditioning. 2.5 car
-garage is ready for your cars & toys.
-
-Don't miss out on this gem! Please bring your best and final offers by 8/3.
+***House is under contract. No additional offers are being accepted.***
+=======================================================================
 
 .. toctree::
    :maxdepth: 2
@@ -38,57 +17,3 @@ Don't miss out on this gem! Please bring your best and final offers by 8/3.
 
    faq
 
-.. thumbnail:: ./images/Web-2.jpg
-   :width: 49%
-   :class: framed
-   :group: group1
-
-.. thumbnail:: ./images/Web-3.jpg
-   :width: 49 %
-   :class: framed
-   :group: group1
-
-|
-
-.. thumbnail:: ./images/Web-4.jpg
-   :width: 49 %
-   :class: framed
-   :group: group1
-
-.. thumbnail:: ./images/Web-5.jpg
-   :width: 49 %
-   :class: framed
-   :group: group1
-
-|
-
-.. thumbnail:: ./images/Web-6.jpg
-   :width: 49 %
-   :class: framed
-   :group: group1
-
-.. thumbnail:: ./images/Web-7.jpg
-   :width: 49 %
-   :class: framed
-   :group: group1
-
-|
-
-.. thumbnail:: ./images/Web-9.jpg
-   :width: 49 %
-   :class: framed
-   :group: group1
-
-.. thumbnail:: ./images/Web-11.jpg
-   :width: 49 %
-   :class: framed
-   :group: group1
-
-|
-
-.. thumbnail:: ./images/Web-15.jpg
-   :width: 49 %
-   :class: framed
-   :group: group1
-
-|
